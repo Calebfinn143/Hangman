@@ -1,6 +1,9 @@
 # Hangman
 
-Description
+Simple text based Hangman game in Kotlin. User will be prompted to choose a category. Then to continue guessing letter
+by letter until either having lost the game or won. 
+
+
 
 # Development Environment
 
@@ -24,3 +27,4 @@ Description
 * Allow user to guess entire word at once
 * Change all instances of a letter guess at once
 * Add graphics
+* Increase word possibility
